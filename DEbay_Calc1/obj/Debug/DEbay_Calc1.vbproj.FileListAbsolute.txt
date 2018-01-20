@@ -1,0 +1,11 @@
+c:\users\daraa\documents\visual studio 2015\Projects\DEbay_Calc1\DEbay_Calc1\bin\Debug\DEbay_Calc1.exe.config
+c:\users\daraa\documents\visual studio 2015\Projects\DEbay_Calc1\DEbay_Calc1\bin\Debug\DEbay_Calc1.exe
+c:\users\daraa\documents\visual studio 2015\Projects\DEbay_Calc1\DEbay_Calc1\bin\Debug\DEbay_Calc1.pdb
+c:\users\daraa\documents\visual studio 2015\Projects\DEbay_Calc1\DEbay_Calc1\bin\Debug\DEbay_Calc1.xml
+c:\users\daraa\documents\visual studio 2015\Projects\DEbay_Calc1\DEbay_Calc1\obj\Debug\DEbay_Calc1.vbprojResolveAssemblyReference.cache
+c:\users\daraa\documents\visual studio 2015\Projects\DEbay_Calc1\DEbay_Calc1\obj\Debug\DEbay_Calc1.MainForm.resources
+c:\users\daraa\documents\visual studio 2015\Projects\DEbay_Calc1\DEbay_Calc1\obj\Debug\DEbay_Calc1.Resources.resources
+c:\users\daraa\documents\visual studio 2015\Projects\DEbay_Calc1\DEbay_Calc1\obj\Debug\DEbay_Calc1.vbproj.GenerateResource.Cache
+c:\users\daraa\documents\visual studio 2015\Projects\DEbay_Calc1\DEbay_Calc1\obj\Debug\DEbay_Calc1.exe
+c:\users\daraa\documents\visual studio 2015\Projects\DEbay_Calc1\DEbay_Calc1\obj\Debug\DEbay_Calc1.xml
+c:\users\daraa\documents\visual studio 2015\Projects\DEbay_Calc1\DEbay_Calc1\obj\Debug\DEbay_Calc1.pdb
